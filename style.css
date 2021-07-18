@@ -1,0 +1,19 @@
+body
+{
+    text-align: center;
+    background-color: yellow;
+ 
+}
+.topic
+{
+    font-family: cursive;
+}
+.sub
+{
+    font-family: monospace;
+
+}
+.text
+{
+    font-family: sans-serif;
+}
